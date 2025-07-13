@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rutland.tv/sitemap.xml
