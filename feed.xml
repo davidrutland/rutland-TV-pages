@@ -3,7 +3,7 @@
     <title>Rutland TV</title>
     <link href="https://rutland.tv/feed.xml" rel="self" />
     <link href="https://rutland.tv" />
-    <updated>2025-07-07T14:39:52+01:00</updated>
+    <updated>2025-07-13T15:30:34+03:00</updated>
     <author>
         <name>Joseph Rutland</name>
     </author>
@@ -19,7 +19,7 @@
         <media:content url="https://rutland.tv/media/posts/32/charity.jpg" medium="image" />
             <category term="Film and acting"/>
 
-        <updated>2025-05-31T14:09:00+01:00</updated>
+        <updated>2025-05-31T16:09:00+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rutland.tv/media/posts/32/charity.jpg" alt="Three men in a line. The one in front isgiving a thumbs up." />
@@ -46,7 +46,7 @@
         <media:content url="https://rutland.tv/media/posts/30/eighth_boatman.jpg" medium="image" />
             <category term="Film and acting"/>
 
-        <updated>2024-06-20T13:49:00+01:00</updated>
+        <updated>2024-06-20T15:49:00+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rutland.tv/media/posts/30/eighth_boatman.jpg" alt="A woman in a black cape looks on while two people inspect equipment near a camera " />
@@ -70,7 +70,7 @@
         <media:content url="https://rutland.tv/media/posts/31/grit.jpg" medium="image" />
             <category term="Film and acting"/>
 
-        <updated>2024-04-19T14:01:00+01:00</updated>
+        <updated>2024-04-19T16:01:00+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rutland.tv/media/posts/31/grit.jpg" alt="Four men in white lab coats in front of a blackboard" />
@@ -92,8 +92,9 @@
         <link href="https://rutland.tv/head-splitting/"/>
         <id>https://rutland.tv/head-splitting/</id>
         <media:content url="https://rutland.tv/media/posts/34/head_splitting.jpg" medium="image" />
+            <category term="Film and acting"/>
 
-        <updated>2024-04-02T14:38:00+01:00</updated>
+        <updated>2024-04-02T16:38:00+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rutland.tv/media/posts/34/head_splitting.jpg" alt="Four men and a very small woman covered in blood" />
@@ -117,7 +118,7 @@
         <media:content url="https://rutland.tv/media/posts/4/joseph_rutland_in_stoke.jpg" medium="image" />
             <category term="Film and acting"/>
 
-        <updated>2023-10-09T12:10:00+01:00</updated>
+        <updated>2023-10-09T14:10:00+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rutland.tv/media/posts/4/joseph_rutland_in_stoke.jpg" alt="Joseph Rutland running in an urban area with colour gradient" />
@@ -145,7 +146,7 @@
         <media:content url="https://rutland.tv/media/posts/5/bbq.jpg" medium="image" />
             <category term="Film and acting"/>
 
-        <updated>2023-06-08T12:14:00+01:00</updated>
+        <updated>2023-06-08T14:14:00+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rutland.tv/media/posts/5/bbq.jpg" alt="Masked people holding paper plates" />
@@ -173,7 +174,7 @@
         <media:content url="https://rutland.tv/media/posts/33/fictus_medicus.jpg" medium="image" />
             <category term="Film and acting"/>
 
-        <updated>2023-04-23T14:19:00+01:00</updated>
+        <updated>2023-04-23T16:19:00+03:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rutland.tv/media/posts/33/fictus_medicus.jpg" alt="Two actors and two crew filming outdoors " />
@@ -197,7 +198,7 @@
         <media:content url="https://rutland.tv/media/posts/6/cast_members_of_juicy.jpg" medium="image" />
             <category term="Film and acting"/>
 
-        <updated>2023-02-06T12:16:00+00:00</updated>
+        <updated>2023-02-06T14:16:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rutland.tv/media/posts/6/cast_members_of_juicy.jpg" alt="Two men and a woman who has a red liquid dipping from her mouth" />
@@ -221,7 +222,7 @@
         <media:content url="https://rutland.tv/media/posts/7/joseph_rutland_in_wee_willie_winkie_WWW.jpg" medium="image" />
             <category term="Film and acting"/>
 
-        <updated>2023-01-29T12:18:00+00:00</updated>
+        <updated>2023-01-29T14:18:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rutland.tv/media/posts/7/joseph_rutland_in_wee_willie_winkie_WWW.jpg" alt="A breathless long-haired man entering a dark room" />
@@ -246,7 +247,7 @@
         <media:content url="https://rutland.tv/media/posts/8/joseph-rutland-the-dog-expert.jpg" medium="image" />
             <category term="Film and acting"/>
 
-        <updated>2022-11-19T12:36:00+00:00</updated>
+        <updated>2022-11-19T14:36:00+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://rutland.tv/media/posts/8/joseph-rutland-the-dog-expert.jpg" alt="Two men and a woman petting a dog by a cliff" />
