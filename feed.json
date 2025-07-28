@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://rutland.tv/jd-justice/",
+            "url": "https://rutland.tv/jd-justice/",
+            "title": "JD Justice",
+            "summary": "JD Justice Spotlight JD has worked with me on Eight projects total so far (listed below). He is an actor who is up for absolutely anything and can play some really weird characters. I've seen him give really soulful performances, even if the script is&hellip;",
+            "content_html": "<p><a href=\"https://app.spotlight.com/9653-7837-5350\" target=\"_blank\" rel=\"noopener noreferrer\">JD Justice Spotlight</a></p>\n<p>JD has worked with me on Eight projects total so far (listed below). He is an actor who is up for absolutely anything and can play some really weird characters. </p>\n<p>I've seen him give really soulful performances, even if the script is nonsense he always gives it a sense of emotional grounding that brings it all together.</p>\n<p> </p>\n<p>.The Mimic</p>\n<p>.Fictus Medicus</p>\n<p>.Tunnel Island 1.0</p>\n<p>.A Lovely BBQ</p>\n<p>.The Ventroloquist</p>\n<p>.That's not what happened</p>\n<p>.GRIT</p>\n<p>.The Eighth Boatman</p>",
+            "image": "https://rutland.tv/media/posts/49/JD-Justice.jfif",
+            "author": {
+                "name": "Joseph Rutland"
+            },
+            "tags": [
+                   "Reccomended Actors"
+            ],
+            "date_published": "2025-07-28T14:50:19+03:00",
+            "date_modified": "2025-07-28T14:50:19+03:00"
+        },
+        {
             "id": "https://rutland.tv/charity/",
             "url": "https://rutland.tv/charity/",
             "title": "Charity",
@@ -122,6 +138,22 @@
             "date_modified": "2025-07-13T23:26:51+03:00"
         },
         {
+            "id": "https://rutland.tv/the-thingy/",
+            "url": "https://rutland.tv/the-thingy/",
+            "title": "The Thingy",
+            "summary": "This is a re-imagining of a script Joseph worked on in 2018. The initial idea by Michael Hughes was essentially John Carpenter's The Thing but with DVD copies of Zoolander that turn people evil. However, whilst re-reading the script, Joseph found the idea of dissecting&hellip;",
+            "content_html": "<p>This is a re-imagining of a script Joseph worked on in 2018. The initial idea by Michael Hughes was essentially John Carpenter's The Thing but with DVD copies of Zoolander that turn people evil. However, whilst re-reading the script, Joseph found the idea of dissecting a living DVD case fascinating so decided to zero in on that for this film. </p>\n<p>Joseph even reshot some of the scenes from the first, frame by frame for the section where they're projected on the walls.</p>",
+            "image": "https://rutland.tv/media/posts/48/20240724_123413-1.jpg",
+            "author": {
+                "name": "Joseph Rutland"
+            },
+            "tags": [
+                   "Film and acting"
+            ],
+            "date_published": "2024-09-11T14:40:00+03:00",
+            "date_modified": "2025-07-28T14:43:11+03:00"
+        },
+        {
             "id": "https://rutland.tv/janus/",
             "url": "https://rutland.tv/janus/",
             "title": "Janus",
@@ -136,38 +168,6 @@
             ],
             "date_published": "2024-08-11T23:00:00+03:00",
             "date_modified": "2025-07-13T23:00:27+03:00"
-        },
-        {
-            "id": "https://rutland.tv/the-eighth-boatman/",
-            "url": "https://rutland.tv/the-eighth-boatman/",
-            "title": "The Eighth Boatman",
-            "summary": "Joseph first came up with the idea for this script during a writing exercise. He wanted to make a film that would make people come up with their own interpretations on the ending, the. It also bothered Joseph, the amount of sappy short films where&hellip;",
-            "content_html": "<p>Joseph first came up with the idea for this script during a writing exercise. He wanted to make a film that would make people come up with their own interpretations on the ending, the. It also bothered Joseph, the amount of sappy short films where two strangers bond over shared loss or trauma, which felt very cookie-cutter. This film was meant as the inverse of this trope; yes, they are both experiencing loss, however the characters strongly dislike one-another and the Boatman desperately wants this disrespectful stranger to just bugger off.</p>",
-            "image": "https://rutland.tv/media/posts/30/eighth_boatman.jpg",
-            "author": {
-                "name": "Joseph Rutland"
-            },
-            "tags": [
-                   "Film and acting"
-            ],
-            "date_published": "2024-06-20T15:49:00+03:00",
-            "date_modified": "2025-07-07T15:51:47+03:00"
-        },
-        {
-            "id": "https://rutland.tv/grit/",
-            "url": "https://rutland.tv/grit/",
-            "title": "Grit",
-            "summary": "For this one, Joseph was inspired by various analogue horror series such as 'Gemini Home Entertainment' and 'Mystery Flesh Pit National Park'. The idea writing a horror anthology which fleshes out a world in around five minuets was an interesting challange that he through himself&hellip;",
-            "content_html": "<p>For this one, Joseph was inspired by various analogue horror series such as 'Gemini Home Entertainment' and 'Mystery Flesh Pit National Park'. The idea writing a horror anthology which fleshes out a world in around five minuets was an interesting challange that he through himself into with abandon. It gave him the oppertunity to work with alot of actors who he had enjoyed working with in the past. <br>This project was also a collaboration with Alex and Peter, who were amazing help throughout.</p>",
-            "image": "https://rutland.tv/media/posts/31/grit.jpg",
-            "author": {
-                "name": "Joseph Rutland"
-            },
-            "tags": [
-                   "Film and acting"
-            ],
-            "date_published": "2024-04-19T16:01:00+03:00",
-            "date_modified": "2025-07-07T16:01:41+03:00"
         }
     ]
 }

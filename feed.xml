@@ -3,12 +3,47 @@
     <title>Rutland TV</title>
     <link href="https://rutland.tv/feed.xml" rel="self" />
     <link href="https://rutland.tv" />
-    <updated>2025-07-13T23:26:51+03:00</updated>
+    <updated>2025-07-28T14:50:19+03:00</updated>
     <author>
         <name>Joseph Rutland</name>
     </author>
     <id>https://rutland.tv</id>
 
+    <entry>
+        <title>JD Justice</title>
+        <author>
+            <name>Joseph Rutland</name>
+        </author>
+        <link href="https://rutland.tv/jd-justice/"/>
+        <id>https://rutland.tv/jd-justice/</id>
+        <media:content url="https://rutland.tv/media/posts/49/JD-Justice.jfif" medium="image" />
+            <category term="Reccomended Actors"/>
+
+        <updated>2025-07-28T14:50:19+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rutland.tv/media/posts/49/JD-Justice.jfif" alt="" />
+                    JD Justice Spotlight JD has worked with me on Eight projects total so far (listed below). He is an actor who is up for absolutely anything and can play some really weird characters. I've seen him give really soulful performances, even if the script is&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rutland.tv/media/posts/49/JD-Justice.jfif" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://app.spotlight.com/9653-7837-5350" target="_blank" rel="noopener noreferrer">JD Justice Spotlight</a></p>
+<p>JD has worked with me on Eight projects total so far (listed below). He is an actor who is up for absolutely anything and can play some really weird characters. </p>
+<p>I've seen him give really soulful performances, even if the script is nonsense he always gives it a sense of emotional grounding that brings it all together.</p>
+<p> </p>
+<p>.The Mimic</p>
+<p>.Fictus Medicus</p>
+<p>.Tunnel Island 1.0</p>
+<p>.A Lovely BBQ</p>
+<p>.The Ventroloquist</p>
+<p>.That's not what happened</p>
+<p>.GRIT</p>
+<p>.The Eighth Boatman</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Charity</title>
         <author>
@@ -193,6 +228,31 @@
         </content>
     </entry>
     <entry>
+        <title>The Thingy</title>
+        <author>
+            <name>Joseph Rutland</name>
+        </author>
+        <link href="https://rutland.tv/the-thingy/"/>
+        <id>https://rutland.tv/the-thingy/</id>
+        <media:content url="https://rutland.tv/media/posts/48/20240724_123413-1.jpg" medium="image" />
+            <category term="Film and acting"/>
+
+        <updated>2024-09-11T14:40:00+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rutland.tv/media/posts/48/20240724_123413-1.jpg" alt="" />
+                    This is a re-imagining of a script Joseph worked on in 2018. The initial idea by Michael Hughes was essentially John Carpenter's The Thing but with DVD copies of Zoolander that turn people evil. However, whilst re-reading the script, Joseph found the idea of dissecting&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rutland.tv/media/posts/48/20240724_123413-1.jpg" class="type:primaryImage" alt="" /></p>
+                <p>This is a re-imagining of a script Joseph worked on in 2018. The initial idea by Michael Hughes was essentially John Carpenter's The Thing but with DVD copies of Zoolander that turn people evil. However, whilst re-reading the script, Joseph found the idea of dissecting a living DVD case fascinating so decided to zero in on that for this film. </p>
+<p>Joseph even reshot some of the scenes from the first, frame by frame for the section where they're projected on the walls.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>Janus</title>
         <author>
             <name>Joseph Rutland</name>
@@ -214,54 +274,6 @@
                     <p><img src="https://rutland.tv/media/posts/39/b830b1a8-b331-46f0-a293-186284339f71-1.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Joseph has created a film challange using four directors who all work different parts on 4 different films. A bit confusing but fun.</p>
 <p>Joseph's mind was swimming when he got this script, his first decision was to cast Ben Hillyer as Lane, unfortunatley Ben wasn't avaliable but that didn't stop him. This was also the first(ish, if you don't count Fictus Medicus) film where Joseph used body doubles. Unfortunately for Lane's apartment which was supposed to be covered in empty alcohol bottles, Joseph couldn't find any.  However, he made the quick decision that the character had auto-brewery syndrome, causing the bread that Joseph strew about to turn into alcohol in the character's stomach.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Eighth Boatman</title>
-        <author>
-            <name>Joseph Rutland</name>
-        </author>
-        <link href="https://rutland.tv/the-eighth-boatman/"/>
-        <id>https://rutland.tv/the-eighth-boatman/</id>
-        <media:content url="https://rutland.tv/media/posts/30/eighth_boatman.jpg" medium="image" />
-            <category term="Film and acting"/>
-
-        <updated>2024-06-20T15:49:00+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rutland.tv/media/posts/30/eighth_boatman.jpg" alt="A woman in a black cape looks on while two people inspect equipment near a camera " />
-                    Joseph first came up with the idea for this script during a writing exercise. He wanted to make a film that would make people come up with their own interpretations on the ending, the. It also bothered Joseph, the amount of sappy short films where&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://rutland.tv/media/posts/30/eighth_boatman.jpg" class="type:primaryImage" alt="A woman in a black cape looks on while two people inspect equipment near a camera " /></p>
-                <p>Joseph first came up with the idea for this script during a writing exercise. He wanted to make a film that would make people come up with their own interpretations on the ending, the. It also bothered Joseph, the amount of sappy short films where two strangers bond over shared loss or trauma, which felt very cookie-cutter. This film was meant as the inverse of this trope; yes, they are both experiencing loss, however the characters strongly dislike one-another and the Boatman desperately wants this disrespectful stranger to just bugger off.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Grit</title>
-        <author>
-            <name>Joseph Rutland</name>
-        </author>
-        <link href="https://rutland.tv/grit/"/>
-        <id>https://rutland.tv/grit/</id>
-        <media:content url="https://rutland.tv/media/posts/31/grit.jpg" medium="image" />
-            <category term="Film and acting"/>
-
-        <updated>2024-04-19T16:01:00+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rutland.tv/media/posts/31/grit.jpg" alt="Four men in white lab coats in front of a blackboard" />
-                    For this one, Joseph was inspired by various analogue horror series such as 'Gemini Home Entertainment' and 'Mystery Flesh Pit National Park'. The idea writing a horror anthology which fleshes out a world in around five minuets was an interesting challange that he through himself&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://rutland.tv/media/posts/31/grit.jpg" class="type:primaryImage" alt="Four men in white lab coats in front of a blackboard" /></p>
-                <p>For this one, Joseph was inspired by various analogue horror series such as 'Gemini Home Entertainment' and 'Mystery Flesh Pit National Park'. The idea writing a horror anthology which fleshes out a world in around five minuets was an interesting challange that he through himself into with abandon. It gave him the oppertunity to work with alot of actors who he had enjoyed working with in the past. <br>This project was also a collaboration with Alex and Peter, who were amazing help throughout.</p>
             ]]>
         </content>
     </entry>
