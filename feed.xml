@@ -3,7 +3,7 @@
     <title>Rutland TV</title>
     <link href="https://rutland.tv/feed.xml" rel="self" />
     <link href="https://rutland.tv" />
-    <updated>2025-07-28T21:00:36+03:00</updated>
+    <updated>2025-07-28T22:14:18+03:00</updated>
     <author>
         <name>Joseph Rutland</name>
     </author>
@@ -243,28 +243,17 @@
         </content>
     </entry>
     <entry>
-        <title>Janus</title>
+        <title>Spotlight</title>
         <author>
             <name>Joseph Rutland</name>
         </author>
-        <link href="https://rutland.tv/janus/"/>
-        <id>https://rutland.tv/janus/</id>
-        <media:content url="https://rutland.tv/media/posts/39/b830b1a8-b331-46f0-a293-186284339f71-1.jpg" medium="image" />
+        <link href="https://rutland.tv/spotlight/"/>
+        <id>https://rutland.tv/spotlight/</id>
+        <media:content url="https://rutland.tv/media/posts/54/Photo-from-Joseh-1.jpg" medium="image" />
             <category term="Film and acting"/>
 
-        <updated>2024-08-11T23:00:00+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rutland.tv/media/posts/39/b830b1a8-b331-46f0-a293-186284339f71-1.jpg" alt="" />
-                    Joseph has created a film challange using four directors who all work different parts on 4 different films. A bit confusing but fun. Joseph's mind was swimming when he got this script, his first decision was to cast Ben Hillyer as Lane, unfortunatley Ben wasn't&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://rutland.tv/media/posts/39/b830b1a8-b331-46f0-a293-186284339f71-1.jpg" class="type:primaryImage" alt="" /></p>
-                <p>Joseph has created a film challange using four directors who all work different parts on 4 different films. A bit confusing but fun.</p>
-<p>Joseph's mind was swimming when he got this script, his first decision was to cast Ben Hillyer as Lane, unfortunatley Ben wasn't avaliable but that didn't stop him. This was also the first(ish, if you don't count Fictus Medicus) film where Joseph used body doubles. Unfortunately for Lane's apartment which was supposed to be covered in empty alcohol bottles, Joseph couldn't find any.  However, he made the quick decision that the character had auto-brewery syndrome, causing the bread that Joseph strew about to turn into alcohol in the character's stomach.</p>
-            ]]>
-        </content>
+        <updated>2024-09-07T22:13:00+03:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>

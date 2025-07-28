@@ -154,20 +154,18 @@
             "date_modified": "2025-07-28T14:43:11+03:00"
         },
         {
-            "id": "https://rutland.tv/janus/",
-            "url": "https://rutland.tv/janus/",
-            "title": "Janus",
-            "summary": "Joseph has created a film challange using four directors who all work different parts on 4 different films. A bit confusing but fun. Joseph's mind was swimming when he got this script, his first decision was to cast Ben Hillyer as Lane, unfortunatley Ben wasn't&hellip;",
-            "content_html": "<p>Joseph has created a film challange using four directors who all work different parts on 4 different films. A bit confusing but fun.</p>\n<p>Joseph's mind was swimming when he got this script, his first decision was to cast Ben Hillyer as Lane, unfortunatley Ben wasn't avaliable but that didn't stop him. This was also the first(ish, if you don't count Fictus Medicus) film where Joseph used body doubles. Unfortunately for Lane's apartment which was supposed to be covered in empty alcohol bottles, Joseph couldn't find any.  However, he made the quick decision that the character had auto-brewery syndrome, causing the bread that Joseph strew about to turn into alcohol in the character's stomach.</p>",
-            "image": "https://rutland.tv/media/posts/39/b830b1a8-b331-46f0-a293-186284339f71-1.jpg",
+            "id": "https://rutland.tv/spotlight/",
+            "url": "https://rutland.tv/spotlight/",
+            "title": "Spotlight",
+            "image": "https://rutland.tv/media/posts/54/Photo-from-Joseh-1.jpg",
             "author": {
                 "name": "Joseph Rutland"
             },
             "tags": [
                    "Film and acting"
             ],
-            "date_published": "2024-08-11T23:00:00+03:00",
-            "date_modified": "2025-07-13T23:00:27+03:00"
+            "date_published": "2024-09-07T22:13:00+03:00",
+            "date_modified": "2025-07-28T22:14:18+03:00"
         }
     ]
 }
