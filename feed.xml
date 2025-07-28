@@ -3,7 +3,7 @@
     <title>Rutland TV</title>
     <link href="https://rutland.tv/feed.xml" rel="self" />
     <link href="https://rutland.tv" />
-    <updated>2025-07-28T14:43:11+03:00</updated>
+    <updated>2025-07-28T21:00:36+03:00</updated>
     <author>
         <name>Joseph Rutland</name>
     </author>
@@ -193,6 +193,31 @@
         </content>
     </entry>
     <entry>
+        <title>Fable of the Fairy Ring</title>
+        <author>
+            <name>Joseph Rutland</name>
+        </author>
+        <link href="https://rutland.tv/fable-of-the-fairy-ring/"/>
+        <id>https://rutland.tv/fable-of-the-fairy-ring/</id>
+        <media:content url="https://rutland.tv/media/posts/53/Fairy-BTS.png" medium="image" />
+            <category term="Film and acting"/>
+
+        <updated>2024-10-06T21:00:00+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rutland.tv/media/posts/53/Fairy-BTS.png" alt="" />
+                    This was the last film in my special film challange which I had anything to do with. The footage was quite shakey and desaturated when I was given it to edit. Ross McCartan, the director even told me that it'd be best to do it&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rutland.tv/media/posts/53/Fairy-BTS.png" class="type:primaryImage" alt="" /></p>
+                <p>This was the last film in my special film challange which I had anything to do with. The footage was quite shakey and desaturated when I was given it to edit. Ross McCartan, the director even told me that it'd be best to do it in B&amp;W. Alas due to the nature of the challange, that then made my unable to do that. Instead I took inspiration from the main actor's look and gave the film a kind of Evanescence kind of vibe with more grain and a green hue throughout.</p>
+<p>I'm a bit dissapointed in my effect work for the fairy-things but that's all I could whip out in such tight time constraints.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
         <title>The Thingy</title>
         <author>
             <name>Joseph Rutland</name>
@@ -239,30 +264,6 @@
                     <p><img src="https://rutland.tv/media/posts/39/b830b1a8-b331-46f0-a293-186284339f71-1.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Joseph has created a film challange using four directors who all work different parts on 4 different films. A bit confusing but fun.</p>
 <p>Joseph's mind was swimming when he got this script, his first decision was to cast Ben Hillyer as Lane, unfortunatley Ben wasn't avaliable but that didn't stop him. This was also the first(ish, if you don't count Fictus Medicus) film where Joseph used body doubles. Unfortunately for Lane's apartment which was supposed to be covered in empty alcohol bottles, Joseph couldn't find any.  However, he made the quick decision that the character had auto-brewery syndrome, causing the bread that Joseph strew about to turn into alcohol in the character's stomach.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>The Eighth Boatman</title>
-        <author>
-            <name>Joseph Rutland</name>
-        </author>
-        <link href="https://rutland.tv/the-eighth-boatman/"/>
-        <id>https://rutland.tv/the-eighth-boatman/</id>
-        <media:content url="https://rutland.tv/media/posts/30/eighth_boatman.jpg" medium="image" />
-            <category term="Film and acting"/>
-
-        <updated>2024-06-20T15:49:00+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rutland.tv/media/posts/30/eighth_boatman.jpg" alt="A woman in a black cape looks on while two people inspect equipment near a camera " />
-                    Joseph first came up with the idea for this script during a writing exercise. He wanted to make a film that would make people come up with their own interpretations on the ending, the. It also bothered Joseph, the amount of sappy short films where&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://rutland.tv/media/posts/30/eighth_boatman.jpg" class="type:primaryImage" alt="A woman in a black cape looks on while two people inspect equipment near a camera " /></p>
-                <p>Joseph first came up with the idea for this script during a writing exercise. He wanted to make a film that would make people come up with their own interpretations on the ending, the. It also bothered Joseph, the amount of sappy short films where two strangers bond over shared loss or trauma, which felt very cookie-cutter. This film was meant as the inverse of this trope; yes, they are both experiencing loss, however the characters strongly dislike one-another and the Boatman desperately wants this disrespectful stranger to just bugger off.</p>
             ]]>
         </content>
     </entry>

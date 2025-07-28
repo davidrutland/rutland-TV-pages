@@ -122,6 +122,22 @@
             "date_modified": "2025-07-13T23:26:51+03:00"
         },
         {
+            "id": "https://rutland.tv/fable-of-the-fairy-ring/",
+            "url": "https://rutland.tv/fable-of-the-fairy-ring/",
+            "title": "Fable of the Fairy Ring",
+            "summary": "This was the last film in my special film challange which I had anything to do with. The footage was quite shakey and desaturated when I was given it to edit. Ross McCartan, the director even told me that it'd be best to do it&hellip;",
+            "content_html": "<p>This was the last film in my special film challange which I had anything to do with. The footage was quite shakey and desaturated when I was given it to edit. Ross McCartan, the director even told me that it'd be best to do it in B&amp;W. Alas due to the nature of the challange, that then made my unable to do that. Instead I took inspiration from the main actor's look and gave the film a kind of Evanescence kind of vibe with more grain and a green hue throughout.</p>\n<p>I'm a bit dissapointed in my effect work for the fairy-things but that's all I could whip out in such tight time constraints.</p>",
+            "image": "https://rutland.tv/media/posts/53/Fairy-BTS.png",
+            "author": {
+                "name": "Joseph Rutland"
+            },
+            "tags": [
+                   "Film and acting"
+            ],
+            "date_published": "2024-10-06T21:00:00+03:00",
+            "date_modified": "2025-07-28T21:00:36+03:00"
+        },
+        {
             "id": "https://rutland.tv/the-thingy/",
             "url": "https://rutland.tv/the-thingy/",
             "title": "The Thingy",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2024-08-11T23:00:00+03:00",
             "date_modified": "2025-07-13T23:00:27+03:00"
-        },
-        {
-            "id": "https://rutland.tv/the-eighth-boatman/",
-            "url": "https://rutland.tv/the-eighth-boatman/",
-            "title": "The Eighth Boatman",
-            "summary": "Joseph first came up with the idea for this script during a writing exercise. He wanted to make a film that would make people come up with their own interpretations on the ending, the. It also bothered Joseph, the amount of sappy short films where&hellip;",
-            "content_html": "<p>Joseph first came up with the idea for this script during a writing exercise. He wanted to make a film that would make people come up with their own interpretations on the ending, the. It also bothered Joseph, the amount of sappy short films where two strangers bond over shared loss or trauma, which felt very cookie-cutter. This film was meant as the inverse of this trope; yes, they are both experiencing loss, however the characters strongly dislike one-another and the Boatman desperately wants this disrespectful stranger to just bugger off.</p>",
-            "image": "https://rutland.tv/media/posts/30/eighth_boatman.jpg",
-            "author": {
-                "name": "Joseph Rutland"
-            },
-            "tags": [
-                   "Film and acting"
-            ],
-            "date_published": "2024-06-20T15:49:00+03:00",
-            "date_modified": "2025-07-07T15:51:47+03:00"
         }
     ]
 }
