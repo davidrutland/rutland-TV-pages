@@ -3,12 +3,39 @@
     <title>Rutland TV</title>
     <link href="https://rutland.tv/feed.xml" rel="self" />
     <link href="https://rutland.tv" />
-    <updated>2025-07-29T02:25:08+03:00</updated>
+    <updated>2025-07-30T03:02:12+03:00</updated>
     <author>
         <name>Joseph Rutland</name>
     </author>
     <id>https://rutland.tv</id>
 
+    <entry>
+        <title>Ben Hillyer</title>
+        <author>
+            <name>Joseph Rutland</name>
+        </author>
+        <link href="https://rutland.tv/ben-hillyer/"/>
+        <id>https://rutland.tv/ben-hillyer/</id>
+        <media:content url="https://rutland.tv/media/posts/57/Ben-Hillyer.jfif" medium="image" />
+            <category term="Recommended Actors"/>
+
+        <updated>2025-07-25T03:01:00+03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://rutland.tv/media/posts/57/Ben-Hillyer.jfif" alt="" />
+                    Ben Hillyer Spotlight .The Satan Cube .Fictus Medicus
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://rutland.tv/media/posts/57/Ben-Hillyer.jfif" class="type:primaryImage" alt="" /></p>
+                <p><a href="https://app.spotlight.com/3513-5614-9314" target="_blank" rel="noopener noreferrer">Ben Hillyer Spotlight</a></p>
+<p> </p>
+<p>.The Satan Cube</p>
+<p>.Fictus Medicus</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Squat Whilst You Squat (And Director&#x27;s Cut)</title>
         <author>
@@ -239,31 +266,6 @@
                     <p><img src="https://rutland.tv/media/posts/43/20241116_113444.jpg" class="type:primaryImage" alt="" /></p>
                 <p>I decided that the best use of his time in Phnom Penh was to visit the killing fields. An absolutely harrowing experince, he got to see an incredible ammount of human remains as well as the tree they used for executing babies.</p>
 <p>I also met a variety of genocide survivors including the one pictured. This was at the former detention centre where citizens were brutally tortured for the sadistic enjoyment of the Khmer Rouge. </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Fable of the Fairy Ring</title>
-        <author>
-            <name>Joseph Rutland</name>
-        </author>
-        <link href="https://rutland.tv/fable-of-the-fairy-ring/"/>
-        <id>https://rutland.tv/fable-of-the-fairy-ring/</id>
-        <media:content url="https://rutland.tv/media/posts/53/Web_1.1.13.png" medium="image" />
-            <category term="Film and acting"/>
-
-        <updated>2024-10-06T21:00:00+03:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://rutland.tv/media/posts/53/Web_1.1.13.png" alt="" />
-                    This was the last film in my special film challange which I had anything to do with. The footage was quite shakey and desaturated when I was given it to edit. Ross McCartan, the director even told me that it'd be best to do it&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://rutland.tv/media/posts/53/Web_1.1.13.png" class="type:primaryImage" alt="" /></p>
-                <p>This was the last film in my special film challange which I had anything to do with. The footage was quite shakey and desaturated when I was given it to edit. Ross McCartan, the director even told me that it'd be best to do it in B&amp;W. Alas due to the nature of the challange, that then made my unable to do that. Instead I took inspiration from the main actor's look and gave the film a kind of Evanescence kind of vibe with more grain and a green hue throughout.</p>
-<p>I'm a bit dissapointed in my effect work for the fairy-things but that's all I could whip out in such tight time constraints.</p>
             ]]>
         </content>
     </entry>

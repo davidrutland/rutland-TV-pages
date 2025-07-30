@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://rutland.tv/ben-hillyer/",
+            "url": "https://rutland.tv/ben-hillyer/",
+            "title": "Ben Hillyer",
+            "summary": "Ben Hillyer Spotlight .The Satan Cube .Fictus Medicus",
+            "content_html": "<p><a href=\"https://app.spotlight.com/3513-5614-9314\" target=\"_blank\" rel=\"noopener noreferrer\">Ben Hillyer Spotlight</a></p>\n<p> </p>\n<p>.The Satan Cube</p>\n<p>.Fictus Medicus</p>",
+            "image": "https://rutland.tv/media/posts/57/Ben-Hillyer.jfif",
+            "author": {
+                "name": "Joseph Rutland"
+            },
+            "tags": [
+                   "Recommended Actors"
+            ],
+            "date_published": "2025-07-25T03:01:00+03:00",
+            "date_modified": "2025-07-30T03:02:12+03:00"
+        },
+        {
             "id": "https://rutland.tv/squat-whilst-you-squat-and-directors-cut/",
             "url": "https://rutland.tv/squat-whilst-you-squat-and-directors-cut/",
             "title": "Squat Whilst You Squat (And Director&#x27;s Cut)",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2024-11-16T23:25:00+02:00",
             "date_modified": "2025-07-29T02:18:28+03:00"
-        },
-        {
-            "id": "https://rutland.tv/fable-of-the-fairy-ring/",
-            "url": "https://rutland.tv/fable-of-the-fairy-ring/",
-            "title": "Fable of the Fairy Ring",
-            "summary": "This was the last film in my special film challange which I had anything to do with. The footage was quite shakey and desaturated when I was given it to edit. Ross McCartan, the director even told me that it'd be best to do it&hellip;",
-            "content_html": "<p>This was the last film in my special film challange which I had anything to do with. The footage was quite shakey and desaturated when I was given it to edit. Ross McCartan, the director even told me that it'd be best to do it in B&amp;W. Alas due to the nature of the challange, that then made my unable to do that. Instead I took inspiration from the main actor's look and gave the film a kind of Evanescence kind of vibe with more grain and a green hue throughout.</p>\n<p>I'm a bit dissapointed in my effect work for the fairy-things but that's all I could whip out in such tight time constraints.</p>",
-            "image": "https://rutland.tv/media/posts/53/Web_1.1.13.png",
-            "author": {
-                "name": "Joseph Rutland"
-            },
-            "tags": [
-                   "Film and acting"
-            ],
-            "date_published": "2024-10-06T21:00:00+03:00",
-            "date_modified": "2025-07-29T02:16:23+03:00"
         }
     ]
 }
