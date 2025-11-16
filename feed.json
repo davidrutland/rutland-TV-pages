@@ -10,6 +10,38 @@
     },
     "items": [
         {
+            "id": "https://rutland.tv/blackadder-iii/",
+            "url": "https://rutland.tv/blackadder-iii/",
+            "title": "Blackadder III",
+            "summary": "Back on stage after nearly 5 years! Feels great to tread the boards again! This time I was playing The Scarlet Pimpernel/Topper/Frau Frau, the same person in various disguises. Armed with my trusty JD Justice, I had a jolly good time and met a load&hellip;",
+            "content_html": "<p>Back on stage after nearly 5 years! Feels great to tread the boards again! This time I was playing The Scarlet Pimpernel/Topper/Frau Frau, the same person in various disguises. Armed with my trusty JD Justice, I had a jolly good time and met a load of really really talanted actors who I hope to work with again ASAP.</p>",
+            "image": "https://rutland.tv/media/posts/60/c7275371-5738-458b-851c-e8696ef25f04.jpg",
+            "author": {
+                "name": "Joseph Rutland"
+            },
+            "tags": [
+                   "Film and acting"
+            ],
+            "date_published": "2025-11-16T16:06:52+02:00",
+            "date_modified": "2025-11-16T16:07:08+02:00"
+        },
+        {
+            "id": "https://rutland.tv/greenteeth/",
+            "url": "https://rutland.tv/greenteeth/",
+            "title": "Greenteeth",
+            "summary": "I've had the absolute pleasure of being killed off in the new film by the esteemed Will Fennah 'Greenteeth'. I find it absolutely wild that something I was in was shown at our local cinema. I absolutely cannot wait to work with Will again, he&hellip;",
+            "content_html": "<p>I've had the absolute pleasure of being killed off in the new film by the esteemed Will Fennah 'Greenteeth'. I find it absolutely wild that something I was in was shown at our local cinema. I absolutely cannot wait to work with Will again, he previously did the cinematography for the Wirral Ways Ketamine Film.</p>\n<p>Honestly, amazing practical effects.</p>",
+            "image": "https://rutland.tv/media/posts/59/IMG-20251030-WA0005.jpg",
+            "author": {
+                "name": "Joseph Rutland"
+            },
+            "tags": [
+                   "Film and acting"
+            ],
+            "date_published": "2025-10-30T16:02:00+02:00",
+            "date_modified": "2025-11-16T16:04:44+02:00"
+        },
+        {
             "id": "https://rutland.tv/squat-whilst-you-squat-and-directors-cut/",
             "url": "https://rutland.tv/squat-whilst-you-squat-and-directors-cut/",
             "title": "Squat Whilst You Squat (And Director&#x27;s Cut)",
@@ -136,38 +168,6 @@
             ],
             "date_published": "2025-01-15T23:20:00+02:00",
             "date_modified": "2025-07-29T02:19:24+03:00"
-        },
-        {
-            "id": "https://rutland.tv/joseph-and-the-killing-fields/",
-            "url": "https://rutland.tv/joseph-and-the-killing-fields/",
-            "title": "Joseph &amp; The Killing Fields",
-            "summary": "I decided that the best use of his time in Phnom Penh was to visit the killing fields. An absolutely harrowing experince, he got to see an incredible ammount of human remains as well as the tree they used for executing babies. I also met&hellip;",
-            "content_html": "<p>I decided that the best use of his time in Phnom Penh was to visit the killing fields. An absolutely harrowing experince, he got to see an incredible ammount of human remains as well as the tree they used for executing babies.</p>\n<p>I also met a variety of genocide survivors including the one pictured. This was at the former detention centre where citizens were brutally tortured for the sadistic enjoyment of the Khmer Rouge. </p>",
-            "image": "https://rutland.tv/media/posts/43/20241116_113444.jpg",
-            "author": {
-                "name": "Joseph Rutland"
-            },
-            "tags": [
-                   "Right Now"
-            ],
-            "date_published": "2024-11-16T23:25:00+02:00",
-            "date_modified": "2025-07-29T02:18:28+03:00"
-        },
-        {
-            "id": "https://rutland.tv/fable-of-the-fairy-ring/",
-            "url": "https://rutland.tv/fable-of-the-fairy-ring/",
-            "title": "Fable of the Fairy Ring",
-            "summary": "This was the last film in my special film challange which I had anything to do with. The footage was quite shakey and desaturated when I was given it to edit. Ross McCartan, the director even told me that it'd be best to do it&hellip;",
-            "content_html": "<p>This was the last film in my special film challange which I had anything to do with. The footage was quite shakey and desaturated when I was given it to edit. Ross McCartan, the director even told me that it'd be best to do it in B&amp;W. Alas due to the nature of the challange, that then made my unable to do that. Instead I took inspiration from the main actor's look and gave the film a kind of Evanescence kind of vibe with more grain and a green hue throughout.</p>\n<p>I'm a bit dissapointed in my effect work for the fairy-things but that's all I could whip out in such tight time constraints.</p>",
-            "image": "https://rutland.tv/media/posts/53/Web_1.1.13.png",
-            "author": {
-                "name": "Joseph Rutland"
-            },
-            "tags": [
-                   "Film and acting"
-            ],
-            "date_published": "2024-10-06T21:00:00+03:00",
-            "date_modified": "2025-07-29T02:16:23+03:00"
         }
     ]
 }
