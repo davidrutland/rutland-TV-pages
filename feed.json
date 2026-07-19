@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://rutland.tv/the-cult-of-frank/",
+            "url": "https://rutland.tv/the-cult-of-frank/",
+            "title": "The Cult of Frank!",
+            "summary": "I've had the pleasure of directing and acting in my new film 'The Cult of Frank'! It took bloody ages to edit because I wasn't 100% sure about some shots but I'm very happy with how it all turned out. It was absolutely sweltering in&hellip;",
+            "content_html": "<p>I've had the pleasure of directing and acting in my new film 'The Cult of Frank'! It took bloody ages to edit because I wasn't 100% sure about some shots but I'm very happy with how it all turned out. It was absolutely sweltering in the summer sun with those massive fur coats on. </p>\n<p> </p>\n<p> </p>",
+            "image": "https://rutland.tv/media/posts/63/IMG-20250811-WA0023.jpg",
+            "author": {
+                "name": "Joseph Rutland"
+            },
+            "tags": [
+                   "Film and acting"
+            ],
+            "date_published": "2026-05-25T15:08:00+03:00",
+            "date_modified": "2026-07-19T15:10:02+03:00"
+        },
+        {
             "id": "https://rutland.tv/blackadder-iii/",
             "url": "https://rutland.tv/blackadder-iii/",
             "title": "Blackadder III",
@@ -152,22 +168,6 @@
             ],
             "date_published": "2025-01-22T23:11:00+02:00",
             "date_modified": "2025-07-29T02:20:12+03:00"
-        },
-        {
-            "id": "https://rutland.tv/joseph-in-indonesia/",
-            "url": "https://rutland.tv/joseph-in-indonesia/",
-            "title": "Joseph in Jakarta",
-            "summary": "In the last leg of my trip, I went to Indonesia. Possibly the best accomodation in Asia I've ever experienced. On the second day, me and Christian went to the beach where a bunch of Indonesian kids kept asking questions such as 'Do you like&hellip;",
-            "content_html": "<p>In the last leg of my trip, I went to Indonesia. Possibly the best accomodation in Asia I've ever experienced. On the second day, me and Christian went to the beach where a bunch of Indonesian kids kept asking questions such as 'Do you like Apples?' 'Do you like Cats?' and various other flavours of that question. I also had the worst fish and chips of his life on that beach. </p>\n<p>Myself and Christian then ventured (On a guided tour) to a tea plantation and an active volacano. Volcanoes stink, they are absolutely aweful on the nose. I nearly bought a blow-dart from a volcano woman and I'm glad that I didn't because they're illegal in the UK (Who knew). Afterwards, myself and Christian retired to a Volcanic spar where we got our feet nice and massaged.</p>\n<p>Unfortunately, this was to be the last night before Christian headed back to Finland, so we grabbed a random Indonesian man called Ricky and went to a swinging 20's themed jazz/pizza bar and the three of us had a wonderful candlelit dinner.</p>",
-            "image": "https://rutland.tv/media/posts/37/IMG-20250117-WA0008.jpg",
-            "author": {
-                "name": "Joseph Rutland"
-            },
-            "tags": [
-                   "Right Now"
-            ],
-            "date_published": "2025-01-18T22:29:00+02:00",
-            "date_modified": "2025-07-29T02:23:10+03:00"
         }
     ]
 }
